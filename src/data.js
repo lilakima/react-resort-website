@@ -672,7 +672,7 @@ export default [
         {
           fields: {
             file: {
-              // url: img12,
+              url: img12,
             },
           },
         },
